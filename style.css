@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+body{
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin: 20px;
+    color:black;
+    text-decoration: none;
+    cursor: pointer;
+}
+header{
+    background-image: url("https://2.bp.blogspot.com/-ZHMv-uJgHz8/WlzHAObdq5I/AAAAAAAAAuI/lMy76OD0cNw-Do6GUW2Mww1DvRqf2kkzACLcBGAs/s1600/indian-flag-images-wallpaper-freedom-fighters.jpg");
+    background-repeat: no-repeat;
+    color: black;
+    background-size: cover;
+    padding: 200px;
+    }
+    section p, img{
+        padding: 10px;
+        }
+        img{
+            width: 500px;
+        }
+        .india{
+            color: black;
+            padding: 70px;
+            }
